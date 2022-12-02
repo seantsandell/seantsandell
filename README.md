@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @seantsandell
+- 👀 I’m an SRE interested in infrastructure as code, scripting in bash and python, developing CICD pipelines, networking, IoT, and a frontend project for my photography hobby. 
+- 🌱 I’m currently learning Terraform, Python, and a bit of JavaScript.
+- 💞️ I’m looking to collaborate on techniques for better backend optimization.
+- 📫 How to reach me: **LinkedIn** [https://www.linkedin.com/in/sean-sandell](www.linkedin.com/in/sean-sandell)
